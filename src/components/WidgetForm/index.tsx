@@ -68,7 +68,6 @@ export function WidgetForm() {
         </>
       )}
 
-
       <footer className="text-[#f7b18b] flex">
         Feito com 
         <Heart weight="fill" />  
